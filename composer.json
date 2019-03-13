@@ -1,0 +1,25 @@
+{
+    "name": "maneash/carousel-plugin",
+    "description": "",
+    "authors": [
+        {
+            "name": "Maneash",
+            "email": "langnagar@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Plugins\\Carousel\\Providers\\CarouselServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Plugins\\Carousel\\": ""
+        }
+    }
+}
