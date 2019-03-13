@@ -1,6 +1,8 @@
 {
     "name": "maneash-demo/carousel-plugin",
     "description": "",
+      "license": "MIT",
+     "minimum-stability": "dev",
     "authors": [
         {
             "name": "Maneash",
