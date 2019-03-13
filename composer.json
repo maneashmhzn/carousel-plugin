@@ -1,6 +1,7 @@
 {
     "name": "maneash-demo/carousel-plugin",
     "description": "",
+     "type": "laravel-plugin",
       "license": "MIT",
      "minimum-stability": "dev",
     "authors": [
